@@ -1,7 +1,7 @@
 export const productsData = [
   {
     id: 1,
-    name: "Apple router Series 9 [GPS 45mm] Smartwatch with Midnight Aluminum Case",
+    name: "Samsung Galaxy Mouse 4 | Smart Mouse for Precision and Comfort",
     category: "Watches",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio voluptatem aliquam reprehenderit debitis quidem accusantium quas reiciendis quae, enim nesciunt, illo sit ea aspernatur quo perferendis! Cumque fuga impedit corrupti!",
@@ -32,7 +32,7 @@ export const productsData = [
   },
   {
     id: 2,
-    name: "Apple router SE (2nd Gen) [GPS 44 mm] Smart router w/Starlight Aluminium Case & Starllight Sport Band",
+    name: "Apple Printer Pro (2ᵉ Gén) [Wi-Fi] – Smart Printer ",
     category: "Watches",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio voluptatem aliquam reprehenderit debitis quidem accusantium quas reiciendis quae, enim nesciunt, illo sit ea aspernatur quo perferendis! Cumque fuga impedit corrupti!",
@@ -58,13 +58,13 @@ export const productsData = [
       },
     ],
     images: [
-      "/images/products/rrr.jpg",
-      "/images/products/rrrt.jpg",
+      "/images/products/imprimante.jpg",
+      "/images/products/projecteur4.jpg",
     ],
   },
   {
     id: 3,
-    name: "FireBolt Ninja SmartWatch | lorem ipsum doller",
+    name: "FireBolt Ninja Projector | lorem ipsum doller",
     category: "Watches",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio voluptatem aliquam reprehenderit debitis quidem accusantium quas reiciendis quae, enim nesciunt, illo sit ea aspernatur quo perferendis! Cumque fuga impedit corrupti!",
@@ -90,7 +90,7 @@ export const productsData = [
     ],
     discount: 10,
     images: [
-      "/images/products/router.jpg"
+      "/images/products/projecteur4.jpg"
     ],
   },
   {
