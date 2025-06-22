@@ -11,9 +11,7 @@ const AboutPageTwo = () => {
             Our Story
           </h2>
           <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget
-            ipsum id neque laoreet tincidunt. Suspendisse potenti. Curabitur
-            fringilla nunc ac diam consequat, et mattis magna pulvinar.
+            Our journey began with a simple idea: to make online sales and delivery more accessible and efficient for everyone. We saw how many customers faced challenges when ordering products online—delays, lack of trust, and limited service. That’s when we decided to act.
           </p>
           <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
             Fusce at maximus mi. Aliquam bibendum magna sit amet nisi efficitur,
@@ -40,7 +38,7 @@ const AboutPageTwo = () => {
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">
-                  John Doe
+                  NDIHOKUBWAYO Eric
                 </h3>
                 <p className="text-gray-700 dark:text-gray-300">
                   Co-Founder & CEO
@@ -60,7 +58,7 @@ const AboutPageTwo = () => {
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">
-                  Jane Smith
+                  BUTOYI Pascal
                 </h3>
                 <p className="text-gray-700 dark:text-gray-300">
                   Co-Founder & CTO
@@ -80,9 +78,7 @@ const AboutPageTwo = () => {
           <div className="p-6">
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Our Mission</h2>
             <p className="text-gray-700 dark:text-gray-300">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget
-              ipsum id neque laoreet tincidunt. Suspendisse potenti. Curabitur
-              fringilla nunc ac diam consequat, et mattis magna pulvinar.
+              Our mission is to empower our customers by making online sales and delivery easier, faster, and more reliable. We are committed to providing a seamless shopping experience, ensuring customer satisfaction through efficient service, trusted partnerships, and innovative solutions tailored to their needs
             </p>
           </div>
         </div>
@@ -92,11 +88,11 @@ const AboutPageTwo = () => {
           <div className="p-6">
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Our Values</h2>
             <ul className="list-disc list-inside text-gray-700 dark:text-gray-300">
-              <li>Lorem ipsum dolor sit amet</li>
-              <li>Consectetur adipiscing elit</li>
-              <li>Nullam eget ipsum id neque</li>
-              <li>Suspendisse potenti</li>
-              <li>Curabitur fringilla nunc ac diam</li>
+              <li>Customer Focus</li>
+              <li>Reliability </li>
+              <li>Innovation </li>
+              <li>Integrity</li>
+              <li>Collaboration</li>
             </ul>
           </div>
         </div>
@@ -106,9 +102,7 @@ const AboutPageTwo = () => {
           <div className="p-6">
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Our Vision</h2>
             <p className="text-gray-700 dark:text-gray-300">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget
-              ipsum id neque laoreet tincidunt. Suspendisse potenti. Curabitur
-              fringilla nunc ac diam consequat, et mattis magna pulvinar.
+              Our vision is to become a leading force in transforming online commerce and delivery services across the region. We aim to build a digital ecosystem where every customer, regardless of location, can access quality products and dependable delivery with just a few clicks
             </p>
           </div>
         </div>

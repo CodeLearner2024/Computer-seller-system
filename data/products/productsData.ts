@@ -1,7 +1,7 @@
 export const productsData = [
   {
     id: 1,
-    name: "Apple Watch Series 9 [GPS 45mm] Smartwatch with Midnight Aluminum Case",
+    name: "Apple Watch Series 9 [GPS 45mm] Smartwatch with Midnight Aluminum Case eric",
     category: "Watches",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio voluptatem aliquam reprehenderit debitis quidem accusantium quas reiciendis quae, enim nesciunt, illo sit ea aspernatur quo perferendis! Cumque fuga impedit corrupti!",
