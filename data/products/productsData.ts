@@ -279,8 +279,8 @@ export const productsData = [
     ],
     discount: 15,
     images: [
-      "/images/products/sony-dynamic-removebg-preview.png",
-      '/images/products/sony-dynamic-2-removebg-preview.png',
+      "/images/products/clavier1.jpg",
+      '/images/products/centrale2.jpg',
     ],
   },
   {
@@ -311,7 +311,7 @@ export const productsData = [
     ],
     discount: 5,
     images: [
-      "/images/products/song-wh-removebg-preview.png",
+      "/images/products/centrale2.jpg",
     ],
   },
   {
@@ -342,7 +342,7 @@ export const productsData = [
     ],
     discount: 12,
     images: [
-      "/images/products/senheiser-removebg-preview.png",
+      "/images/products/centrale.jpg",
     ],
   },
   {
@@ -373,7 +373,7 @@ export const productsData = [
     ],
     discount: 12,
     images: [
-      "/images/products/prothonics-removebg-preview.png",
+      "/images/products/clavier.jpg",
     ],
   },
   {
@@ -497,7 +497,7 @@ export const productsData = [
         date: new Date(),
       },
     ],
-    discount: 5,
+    discount: 8,
     images: [
       "/images/products/galaxy-15-removebg-preview.png",
     ],

@@ -1,7 +1,7 @@
  export const dummyCategories = [
     { 
       id: 1, 
-      name: "keyboard", 
+      name: "SmartPhones", 
       description: "Discover the latest keyboard with cutting-edge features.", 
       image: "/images/products/clavier.jpg"
     },
