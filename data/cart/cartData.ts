@@ -6,7 +6,7 @@ export const cartData = [
         price:1400,
         discount:10,
         quantity:2,
-        image:'/images/products/iphone-15-1.webp',
+        image:'/images/products/centrale4.jpg',
     },
     {
         id:2,

@@ -9,17 +9,17 @@ export const bannerData = [
         link: `shop?category=Computers`
     },
     {
-        title:'Introducing the All-New NovaPhone 15',
+        title:'Introducing the All-New computer',
         description:'Experience unparalleled performance with our most advanced phone yet. Blazing-fast processor, stunning camera system, and a revolutionary display.',
-        images:['/images/banner/iphone.png'],
+        images:['/images/banner/computer.jpg'],
         button:'Order Now',
         discountText:'Buy now Get 5% off',
         link:`shop?category=Smartphones`
     },
     {
-        title:'High-resolution noise-canceling headphones.',
+        title:'High-resolution noise-canceling router.',
         description:'Immerse Yourself in Pure Sound with the SonicPro Max',
-        images:['/images/banner/headphone.png'],
+        images:['/images/banner/router.jpg'],
         button:'Shop Headphones',
         discountText:'Buy now Get 15% off',
         link:'shop?category=Headphones'

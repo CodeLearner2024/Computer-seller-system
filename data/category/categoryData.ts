@@ -1,9 +1,9 @@
  export const dummyCategories = [
     { 
       id: 1, 
-      name: "Smartphones", 
-      description: "Discover the latest smartphones with cutting-edge features.", 
-      image: "/images/products/galaxy-15-removebg-preview.png"
+      name: "keyboard", 
+      description: "Discover the latest keyboard with cutting-edge features.", 
+      image: "/images/products/clavier.jpg"
     },
     { 
       id: 2, 
@@ -19,9 +19,9 @@
     },
     { 
       id: 4, 
-      name: "Watches", 
+      name: "Central Processing Unit", 
       description: "Level up your gaming experience with consoles and accessories.", 
-      image: "/images/products/apple-watch-9-3-removebg-preview.png"
+      image: "/images/products/centrale3.jpg"
     },
     // Add more category data as needed
   ];

@@ -1,7 +1,7 @@
 export const productsData = [
   {
     id: 1,
-    name: "Apple Watch Series 9 [GPS 45mm] Smartwatch with Midnight Aluminum Case eric",
+    name: "Apple router Series 9 [GPS 45mm] Smartwatch with Midnight Aluminum Case",
     category: "Watches",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio voluptatem aliquam reprehenderit debitis quidem accusantium quas reiciendis quae, enim nesciunt, illo sit ea aspernatur quo perferendis! Cumque fuga impedit corrupti!",
@@ -26,13 +26,13 @@ export const productsData = [
     brand: "Apple",
     color: ['white', 'gray', 'blue','silver'],
     images: [
-      "/images/products/apple-watch-9-removebg-preview.png",
-      "/images/products/apple-watch-9-3-removebg-preview.png",
+      "/images/products/router.jpg",
+      "/images/products/rrr.jpg",
     ],
   },
   {
     id: 2,
-    name: "Apple Watch SE (2nd Gen) [GPS 44 mm] Smart Watch w/Starlight Aluminium Case & Starllight Sport Band",
+    name: "Apple router SE (2nd Gen) [GPS 44 mm] Smart router w/Starlight Aluminium Case & Starllight Sport Band",
     category: "Watches",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio voluptatem aliquam reprehenderit debitis quidem accusantium quas reiciendis quae, enim nesciunt, illo sit ea aspernatur quo perferendis! Cumque fuga impedit corrupti!",
@@ -58,8 +58,8 @@ export const productsData = [
       },
     ],
     images: [
-      "/images/products/apple-watch-se-removebg-preview.png",
-      "/images/products/apple-watch-se-2-removebg-preview.png",
+      "/images/products/rrr.jpg",
+      "/images/products/rrrt.jpg",
     ],
   },
   {
@@ -90,7 +90,7 @@ export const productsData = [
     ],
     discount: 10,
     images: [
-      "/images/products/firebolt-ninja-removebg-preview.png"
+      "/images/products/router.jpg"
     ],
   },
   {
@@ -119,8 +119,8 @@ export const productsData = [
     brand: "none",
     color: ['white', 'gray', 'blue'],
     images: [
-      "/images/products/galaxy-watch-4-removebg-preview.png",
-      "/images/products/galaxy-watch-4-2-removebg-preview.png",
+      "/images/products/souris.jpg",
+      "/images/products/souris2.jpg",
     ],
   },
   {

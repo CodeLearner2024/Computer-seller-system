@@ -30,7 +30,7 @@ export const blogPosts = [
       },
       {
         type: "image",
-        src: "/images/products/apple-watch-9-3-removebg-preview.png",
+        src: "/images/products/centrale3.jpg",
         alt: "Smartwatch",
       },
       {
@@ -62,7 +62,7 @@ export const blogPosts = [
       },
       {
         type: "image",
-        src: "/images/products/msi-modern-14-2-removebg-preview.png",
+        src: "/images/products/router.jpg",
         alt: "Graphics Card",
       },
       {
@@ -89,7 +89,7 @@ export const blogPosts = [
     title: "Smart Home Devices That Make Your Life Easier",
     author: "David Lee (Tech Lifestyle Blogger)",
     category: "Smart Home",
-    image: "/images/products/galaxy-15-removebg-preview.png",
+    image: "/images/products/centrale2.jpg",
     excerpt:
       "Take control of your home with the power of smart technology! This blog post explores a variety of smart home devices that can automate tasks, improve your security, and even boost your energy efficiency.",
     content: [
@@ -107,7 +107,7 @@ export const blogPosts = [
       },
       {
         type: "image",
-        src: "/images/products/apple-watch-se-2-removebg-preview.png",
+        src: "/images/products/rrr.jpg",
         alt: "Smart Lighting",
       },
       {
