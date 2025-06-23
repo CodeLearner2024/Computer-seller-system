@@ -11,7 +11,7 @@ export const  testinomials = [
     {
         id:2,
         name:'NI. Elie',
-        image:'/images/people/person.jpg',
+        image:'/images/people/elie.JPG',
         designation:'MSC, Bank Manager',
         content: `Shopping has never been this easy. Fast delivery and top-notch customer service!.`
     },
@@ -25,7 +25,7 @@ export const  testinomials = [
     {
         id:4,
         name:'MU. Innocent',
-        image:'/images/people/person.jpg',
+        image:'/images/people/inno.jpeg',
         designation:'Msc, traffic consolor',
         content: `Great quality products and secure payments. Highly recommend this service!`
     },
@@ -39,7 +39,7 @@ export const  testinomials = [
     {
         id:6,
         name:'John doe',
-        image:'/images/people/person.jpg',
+        image:'/images/people/elie.JPG',
         designation:'CEO, Company Inc.',
         content: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac
         orci ac lorem accumsan tristique. Nullam ac tortor a sem tempor
